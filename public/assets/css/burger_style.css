@@ -1,0 +1,25 @@
+* {
+	text-align: center;
+}
+body{
+	background-color: #E8B92D;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+
+  .burgerlist {
+    margin-top:30px;	
+  }
+  
+  #devourbutton {
+    background-color:white;
+    color: black;
+  }
+
+  #submit {
+    background-color:blue;
+    border:blue;
+  }
+  
